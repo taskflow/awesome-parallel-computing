@@ -82,6 +82,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 #### Research Papers
 
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
+- [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
 
 #### Courses
 
