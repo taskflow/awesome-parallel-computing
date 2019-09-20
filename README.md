@@ -102,6 +102,7 @@ All the lists in this page are either in alphabetical order or chronological ord
  - [Michael Wong's Standard on Parallelism and Programming Languages](https://wongmichael.com/about/) - Michael Wong
  - [Preshing on Programming](https://preshing.com/) - Jeff Preshing
  - [Sutter's Mill](https://herbsutter.com/) - Herb Sutter
+ - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
 
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
