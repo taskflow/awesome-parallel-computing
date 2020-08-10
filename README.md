@@ -17,10 +17,11 @@ All the lists in this page are either in alphabetical order or chronological ord
 ## Software
 
 #### Programming Library
+
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
 - [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
-- [Cpp-Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/cpp-taskflow/cpp-taskflow)
+- [Cpp-Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
 - [FastFlow: High-performance Parallel Patterns in C++](https://github.com/fastflow/fastflow)
 - [Galois: A C++ Library to Ease Parallel Programming with Irregular Parallelism](https://github.com/IntelligentSoftwareSystems/Galois)
 - [Heteroflow: Concurrent CPU-GPU Task Programming using Modern C++](https://github.com/Heteroflow/Heteroflow)
@@ -81,10 +82,14 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
 
-#### Research Papers
+#### Position Papers
 
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
 - [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
+
+### Experimental Papers
+
+- [Evaluation and Analysis of Dynamic Loop Scheduling in OpenMP](references/EvaluationAndAnalysisofDynamicLoopSchedulingofOpenMP.pdf)
 
 #### Courses
 
@@ -121,6 +126,6 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 * * *
 
-[GitHub pull requests]:  https://github.com/cpp-taskflow/cpp-taskflow/pulls
+[GitHub pull requests]:  https://github.com/taskflow/taskflow/pulls
 [email me]:              mailto:twh760812@gmail.com
 
