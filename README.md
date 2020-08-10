@@ -21,7 +21,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
 - [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
-- [Cpp-Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
+- [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
 - [FastFlow: High-performance Parallel Patterns in C++](https://github.com/fastflow/fastflow)
 - [Galois: A C++ Library to Ease Parallel Programming with Irregular Parallelism](https://github.com/IntelligentSoftwareSystems/Galois)
 - [Heteroflow: Concurrent CPU-GPU Task Programming using Modern C++](https://github.com/Heteroflow/Heteroflow)
