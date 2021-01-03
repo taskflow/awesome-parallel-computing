@@ -33,6 +33,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://parasol.tamu.edu/stapl/)
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
+- [Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
 
 
 #### Concurrent Data Structures
