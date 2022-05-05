@@ -19,6 +19,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 #### Programming Library
 
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
+- [CGraph: A cross-platform DAG framework based on C++17](https://github.com/ChunelFeng/CGraph)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
 - [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
 - [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
@@ -34,7 +35,6 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
-- [CGraph: A cross-platform DAG framework based on C++17](https://github.com/ChunelFeng/CGraph)
 
 
 #### Concurrent Data Structures
