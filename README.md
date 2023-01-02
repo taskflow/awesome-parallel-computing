@@ -29,11 +29,16 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [HPX: A C++ Standard Library for Concurrency and Parallelism](https://github.com/STEllAR-GROUP/hpx)
 - [Intel TBB: Threading Building Blocks](https://www.threadingbuildingblocks.org/)
 - [Kokkos: A C++ Programming Model for Writing Performance Portable Applications on HPC platforms](https://github.com/kokkos/kokkos)
+- [MPICH: High-Performance Portable MPI](https://www.mpich.org/)
+- [MPL: A message passing library](https://rabauke.github.io/mpl/html/)
+- [OmpSs: A task based programming model](https://pm.bsc.es/ompss)
 - [OpenMP: Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran](https://www.openmp.org/)
+- [OpenMPI: A High Performance Message Passing Library](https://www.open-mpi.org/)
 - [RaftLib: A C++ Library for Enabling Stream and Dataflow Parallel Computation](https://github.com/RaftLib/RaftLib) 
 - [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://parasol.tamu.edu/stapl/)
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
+- [UPC++: A C++ library that supports Partitioned Global Address Space (PGAS) programming](https://bitbucket.org/berkeleylab/upcxx/wiki/Home)
 - [Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
 
 
@@ -119,12 +124,16 @@ All the lists in this page are either in alphabetical order or chronological ord
   
 #### Conferences
 
- - [ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP)](https://ppopp19.sigplan.org/home)
+ - [ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP)](https://ppopp23.sigplan.org/home)
  - [ACM Symposium on Parallel Algorithms and Architectures (SPAA)](https://spaa.acm.org/)
- - [ACM/IEEE International Conference for High-performance Computing, Networking, Storage, and Analysis (SC)](https://sc19.supercomputing.org/)
+ - [ACM/IEEE International Conference for High-performance Computing, Networking, Storage, and Analysis (SC)](https://supercomputing.org/)
+ - [HPC Asia](https://www.sc-asia.org/hpc-asia-2023/)
+ - [International Conference on Parallel Processing (ICPP)](https://icpp23.sci.utah.edu/home)
+ - [International Conference on Supercomputing](https://www.ics-conference.org/)
  - [IEEE International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/)
- - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
-
+ - [International Symposium on High-Performance Parallel and Distributed Computing](https://www.hpdc.org/)
+ - [ISC High Performance](https://www.isc-hpc.com/)
+ 
 
 * * *
 
