@@ -41,6 +41,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [UPC++: A C++ library that supports Partitioned Global Address Space (PGAS) programming](https://bitbucket.org/berkeleylab/upcxx/wiki/Home)
 - [Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
+- [nndeploy: An Easy-to-Use and High-Performance AI deployment framework](https://github.com/nndeploy/nndeploy)
 
 
 #### Concurrent Data Structures
