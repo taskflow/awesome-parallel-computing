@@ -16,14 +16,14 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 ## Software
 
-#### Programming Library
+#### Parallel Programming Library
 
+- [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [CGraph: A cross-platform DAG framework based on C++17](https://github.com/ChunelFeng/CGraph)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
 - [Charm++: A Parallel Programming Framework](https://charmplusplus.org/)
 - [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
-- [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
 - [FastFlow: High-performance Parallel Patterns in C++](https://github.com/fastflow/fastflow)
 - [Galois: A C++ Library to Ease Parallel Programming with Irregular Parallelism](https://github.com/IntelligentSoftwareSystems/Galois)
 - [Heteroflow: Concurrent CPU-GPU Task Programming using Modern C++](https://github.com/Heteroflow/Heteroflow)
