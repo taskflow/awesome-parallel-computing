@@ -18,7 +18,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 #### Parallel Programming Library
 
-- [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
+- [Taskflow: A Modern C++ Task-parallel Programming Library](https://github.com/taskflow/taskflow)
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [CGraph: A cross-platform DAG framework based on C++17](https://github.com/ChunelFeng/CGraph)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
