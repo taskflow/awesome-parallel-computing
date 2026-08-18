@@ -36,7 +36,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [OpenMP: Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran](https://www.openmp.org/)
 - [OpenMPI: A High Performance Message Passing Library](https://www.open-mpi.org/)
 - [RaftLib: A C++ Library for Enabling Stream and Dataflow Parallel Computation](https://github.com/RaftLib/RaftLib) 
-- [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://parasol.tamu.edu/stapl/)
+- [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://gitlab.com/parasol-lab/stapl)
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [UPC++: A C++ library that supports Partitioned Global Address Space (PGAS) programming](https://bitbucket.org/berkeleylab/upcxx/wiki/Home)
