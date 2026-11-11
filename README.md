@@ -24,6 +24,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
 - [Charm++: A Parallel Programming Framework](https://charmplusplus.org/)
 - [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
+- [Faber: A Statically Typed Language Whose Kernel Declarations Run on CPU Threads, Metal and CUDA Devices](https://faberlang.dev/en-US/targets/gpu.html)
 - [FastFlow: High-performance Parallel Patterns in C++](https://github.com/fastflow/fastflow)
 - [Galois: A C++ Library to Ease Parallel Programming with Irregular Parallelism](https://github.com/IntelligentSoftwareSystems/Galois)
 - [Heteroflow: Concurrent CPU-GPU Task Programming using Modern C++](https://github.com/Heteroflow/Heteroflow)
